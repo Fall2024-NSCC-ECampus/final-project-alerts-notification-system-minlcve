@@ -56,3 +56,9 @@ In the SafetyNet Alerts project, I ensured that each class in the application fo
 PersonService.java: This class is only responsible for handling operations related to persons, such as retrieving a list of children or finding a person by their name.
 FireStationService.java: This service is only responsible for managing the fire station's operations, such as fetching people served by a particular fire station or retrieving phone numbers.
 Each class is responsible for only one type of operation, making the code modular, easy to read, and maintain.
+
+console and database: 
+<img width="645" alt="Screenshot 2024-12-09 at 3 21 44 AM" src="https://github.com/user-attachments/assets/29fdde6b-fb73-4855-91d4-615e2087cccd">
+<img width="613" alt="Screenshot 2024-12-09 at 4 45 51 AM" src="https://github.com/user-attachments/assets/d84a8eea-d424-4ae0-98dd-2c05a55ce06b">
+<img width="480" alt="Screenshot 2024-12-09 at 4 45 22 AM" src="https://github.com/user-attachments/assets/cfdc1de2-583d-48da-8d8b-ff6c720146de">
+<img width="544" alt="Screenshot 2024-12-09 at 4 45 39 AM" src="https://github.com/user-attachments/assets/17d4fc97-3671-442f-89ee-787ab224f9b4">
