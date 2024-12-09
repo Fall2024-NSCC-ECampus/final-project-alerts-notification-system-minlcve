@@ -45,6 +45,20 @@ Interact with the API:
 
 Enter a fire station number in the input field to retrieve people associated with that fire station.
 
+Folder Structure
+src/main/java/com/safetyalerts/: Java code for the Spring Boot application.
+Controllers, Services, Repositories, and Exception Handling.
+
+src/main/resources/static/: Contains static files for front-end (HTML, CSS, JS).
+index.html: The main HTML page.
+styles.css: The CSS for styling the page.
+script.js: JavaScript to handle form submission and API interaction.
+
+
+
+
+
+
 <img width="482" alt="Screenshot 2024-12-09 at 3 52 28 AM" src="https://github.com/user-attachments/assets/c6b4a7a0-5641-4b2c-8abd-aab01b545c86">
 
 
