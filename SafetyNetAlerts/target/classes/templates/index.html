@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fire Station Alerts</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="container">
+    <h1>People by Fire Station</h1>
+    <form id="firestationForm">
+        <label for="stationNumber">Enter Fire Station Number:</label>
+        <input type="number" id="stationNumber" name="stationNumber" min="1" required>
+        <button type="submit">Get People</button>
+    </form>
+
+    <div id="result"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
